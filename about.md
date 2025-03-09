@@ -1,11 +1,9 @@
 ---
-title: About
+title: Welcome to a space dedicated to our personal growth.
 layout: page
 description: About
 bodyClass: page-about
 ---
-
-# Welcome to a space dedicated to our personal growth.
 
 If you are reading this, it is possible that you or someone close to you is looking for a safe place to unload, rest, and renew energy. Counseling is my passion because I have found in this profession a beautiful and useful way to help people.
 ## Purpose

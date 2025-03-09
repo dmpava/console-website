@@ -1,26 +1,30 @@
-<form action="https://formspree.io/f/moveazkg" method="POST">
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{ page.title }}</h1>
+                {% include call.html show_button=false %}
+                <div class="content mt-4">{{ content }}</div>
 
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
+                <!-- Contact Form -->
+                <form action="https://formspree.io/f/moveazkg" method="POST">
+                    <label>
+                        Your email:
+                        <input type="email" name="email" required>
+                    </label>
 
-  <label>
-    Your message:
-    <textarea name="message">
-      Name:
-      Preferred Language: [English] [Spanish]
-      Message:
-    </textarea>
-  </label>
+                    <label>
+                        Your message:
+                        <textarea name="message" required>
+                        Name:
+                        Preferred Language: [English] [Spanish]
+                        Message:
+                        </textarea>
+                    </label>
 
-  <button type="Submit" 
-  style="background-color: #007bff; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease, transform 0.1s ease;" 
-  onmouseover="this.style.backgroundColor='#0056b3'" 
-  onmouseout="this.style.backgroundColor='#007bff'" 
-  onmousedown="this.style.transform='scale(0.98)'" 
-  onmouseup="this.style.transform='scale(1)'">
-  Send
-  </button>
-  
-</form>
+                    <button type="submit" class="button">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

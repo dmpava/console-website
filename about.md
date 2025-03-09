@@ -19,3 +19,5 @@ My purpose is to offer a safe and welcoming environment where diversity and the 
 My goal is to be a tool on your path to achieving your goals, helping you become the best version of yourself. With a holistic approach, I focus on your needs and preferences, using evidence-based interventions to achieve the objectives you have set. Some of these interventions include narrative therapy, solution-focused therapy, reminiscence therapy, and acceptance and commitment therapy.
 
 In therapy, we grow together, and I deeply value the trust you place in me. I consider it a privilege to accompany you on your journey and to share this path of self-discovery and overcoming. Working together, I firmly believe we can achieve your personal goals and promote your overall well-being.
+
+![Diana Image](/images/team/Diana_Imitola_smiling.jpg)

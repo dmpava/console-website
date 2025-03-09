@@ -4,13 +4,7 @@ layout: contact
 description: Contact
 ---
 
-I am available for in-person and online sessions. Please contact me for details or if you have questions.
+I am available for in-person and online sessions. 
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Please contact me using the below form for any questions. Or email/call (see above).
+

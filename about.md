@@ -8,11 +8,11 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-If you are reading this, it is possible that you or someone close to you is looking for a safe place to unload, rest, and renew energy. Counseling is my passion because I have found in this profession a beautiful and useful way to help people.
+If you are reading this, it is possible that you or someone close to you is looking for a safe place to unload, rest, and renew energy. Counseling is our passion because I have found in this profession a beautiful and useful way to help people.
 
 # Purpose
 
-My purpose is to offer a safe and welcoming environment where diversity and the unique experiences of each individual are recognized and valued. We all face challenges in life, and at some point, we need support to process, plan, and accept our circumstances. Regardless of the size or nature of the challenge, we all need a friendly ear to listen and help us find the inner strength to overcome it.
+Our purpose is to offer a safe and welcoming environment where diversity and the unique experiences of each individual are recognized and valued. We all face challenges in life, and at some point, we need support to process, plan, and accept our circumstances. Regardless of the size or nature of the challenge, we all need a friendly ear to listen and help us find the inner strength to overcome it.
 
 # Goals
 

@@ -55,9 +55,3 @@ Commonly used in older adults and dementia care, this method helps individuals r
 
 ## Solution-Focused Therapy (SFT)
 Developed by Steve de Shazer and Insoo Kim Berg, this short-term, goal-oriented therapy emphasizes finding solutions rather than dwelling on problems. It helps individuals identify past successes, strengths, and resources to create a roadmap for future achievements. A core technique includes visualizing a future where their goal has been achieved, reinforcing self-efficacy and motivation. This approach focuses on small, achievable steps that build confidence and momentum toward positive change. Trauma-Informed Practice – A holistic approach that acknowledges the impact of trauma on individuals, ensuring that care is provided in a safe, supportive, and empowering manner. 
-
-## Mindfulness
-Rooted in ancient contemplative practices and modern psychology, mindfulness encourages present-moment awareness to enhance emotional regulation, reduce stress, and improve overall well-being. 
-
-## Journaling 
-We take pride in being an inclusive, multicultural practice committed to supporting anyone ready to embark on this transformative journey. 

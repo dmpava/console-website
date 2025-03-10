@@ -4,12 +4,12 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Mental health is a journey. So, whether you’re in crisis, just received a diagnosis or are looking to build everyday resilience, I'm here to help guide you to the right place.
+Mental health is a journey. So, whether you’re in crisis, just received a diagnosis or are looking to build everyday resilience, we here to help guide you to the right place.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 
-My mission is to provide compassionate, confidential, and empowering counseling services for everyone. I aim to create a nurturing environment where you can explore your thoughts, emotions, and experiences in a safe and supportive space. With compassionate, expert guidance tailored to your individual needs, I will help you build resilience, enhance well-being, and achieve your personal and professional goals with confidence.
+Our mission is to provide compassionate, confidential, and empowering counseling services for everyone. We aim to create a nurturing environment where you can explore your thoughts, emotions, and experiences in a safe and supportive space. With compassionate, expert guidance tailored to your individual needs, we will help you build resilience, enhance well-being, and achieve your personal and professional goals with confidence.
 
 ### First Session - What to Expect 
 

@@ -8,9 +8,6 @@ Our practice offers a range of corporate services designed to foster resilience,
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-
-# Activities 
-
 ## One-on-One Counselling
 
 Providing personalized support to individuals in a safe and confidential space to explore their emotions, develop coping strategies, and foster personal growth. 

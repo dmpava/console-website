@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 29.450001 6"
+   viewBox="0 0 300.45002 61.212142"
    version="1.1"
    id="svg2"
-   width="29.450001"
-   height="6"
+   width="300.45001"
+   height="61.212231"
+   sodipodi:docname="flags.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="2.2392792"
+     inkscape:cx="160.76602"
+     inkscape:cy="34.386065"
+     inkscape:window-width="1440"
+     inkscape:window-height="793"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs2">
     <clipPath
@@ -28,7 +51,7 @@
   </defs>
   <g
      id="g3"
-     transform="translate(0.03856557,0.00759104)">
+     transform="matrix(10.204099,0,0,10.204099,0.03856557,0.06099224)">
     <rect
        width="10"
        height="6"
@@ -51,7 +74,7 @@
   </g>
   <g
      id="layer1"
-     transform="matrix(0.08744331,0,0,0.10508841,10.044333,-25.203665)">
+     transform="matrix(0.89228014,0,0,1.0723325,102.1384,-257.19714)">
     <g
        id="g7816">
       <path
@@ -96,7 +119,7 @@
   </g>
   <g
      id="g2"
-     transform="matrix(1,0,0,1.0051851,0.02312199,-0.01271316)">
+     transform="matrix(10.204099,0,0,10.257008,-0.11902225,-0.14619381)">
     <path
        fill="#6d2380"
        d="m 20.013156,0.03233132 h 9.380973 V 5.9892492 h -9.380973 z"

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 300.45002 61.212142"
+   viewBox="0 0 251.36553 51.211925"
    version="1.1"
    id="svg2"
-   width="300.45001"
-   height="61.212231"
+   width="251.36554"
+   height="51.212002"
    sodipodi:docname="flags.svg"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -51,7 +51,7 @@
   </defs>
   <g
      id="g3"
-     transform="matrix(10.204099,0,0,10.204099,0.03856557,0.06099224)">
+     transform="matrix(8.4938925,0,0,8.4938925,0.9317101,0.05107143)">
     <rect
        width="10"
        height="6"
@@ -74,7 +74,7 @@
   </g>
   <g
      id="layer1"
-     transform="matrix(0.89228014,0,0,1.0723325,102.1384,-257.19714)">
+     transform="matrix(0.74273403,0,0,0.89260962,85.919617,-214.09061)">
     <g
        id="g7816">
       <path
@@ -119,7 +119,7 @@
   </g>
   <g
      id="g2"
-     transform="matrix(10.204099,0,0,10.257008,-0.11902225,-0.14619381)">
+     transform="matrix(8.4938925,0,0,8.537934,0.80053399,-0.12139025)">
     <path
        fill="#6d2380"
        d="m 20.013156,0.03233132 h 9.380973 V 5.9892492 h -9.380973 z"
